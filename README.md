@@ -2,7 +2,7 @@
 
 ## SISTEM DE SECURITATE CU RASPBERRY PI PICO W
 
-# Contributie GAS
+# Contributie GASre
 
 -text tetx te x
 
